@@ -1,5 +1,5 @@
 # NDA-JEE
-![Alt text](images/feynman technique.png)
+![Alt text](NDA-JEE/feynman technique.png)
 
 
 
