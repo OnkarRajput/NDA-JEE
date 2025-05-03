@@ -1,5 +1,5 @@
 # NDA-JEE
-![Alt text](NDA-JEE/feynman technique.png)
+![Alt text](https://github.com/OnkarRajput/NDA-JEE/blob/main/feynman%20technique.png)
 
 
 
