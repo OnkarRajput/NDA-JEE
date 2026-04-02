@@ -21,6 +21,10 @@ By actively engaging with the material and identifying areas where you need to l
 
 # Below are the usefull link for NDA preprations:
 
+https://www.selfstudys.com/nda/exam/english/nda-notes/mathematics
+
+https://studycart24.com/nda-handwritten-notes-pdf/
+
 ## nda-previous-year-paper
 https://www.selfstudys.com/books/nda-previous-year-paper
 
