@@ -19,7 +19,7 @@ The Feynman Technique: How to Learn Anything Quickly
 By actively engaging with the material and identifying areas where you need to learn more, the Feynman Technique helps you build a deeper and more lasting understanding of complex topics. 
 
 
-# Below are the usefull link for NDA preprations:
+### Below are the usefull link for NDA preprations:
 
 https://www.selfstudys.com/nda/exam/english/nda-notes/mathematics
 
